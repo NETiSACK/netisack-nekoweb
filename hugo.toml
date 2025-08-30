@@ -1,0 +1,9 @@
+baseURL = 'https://netisack.nekoweb.org'
+languageCode = 'en-us'
+title = 'NETiSACK'
+theme = 'mainroad'
+
+[Params.logo]
+  image = false
+  title = "NETiSACK"
+  subtitle = "the little corner of the internet, we do silicon drugs here."

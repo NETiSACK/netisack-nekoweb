@@ -6,7 +6,7 @@ theme = 'mainroad'
 [Params.logo]
   image = false
   title = "NETiSACK"
-  subtitle = "the little corner of the internet, we do silicon drugs here."
+  subtitle = "the little corner of the internet, but we do silicon drugs here."
 
 [Params]
   post_meta = ["author", "date", "categories"]
@@ -15,7 +15,7 @@ theme = 'mainroad'
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["recent", "categories", "taglist", "social"]
+  widgets = ["about", "skills", "recent", "categories", "taglist"]
 
 [Params.widgets.social]
   github = "NETiSACK"

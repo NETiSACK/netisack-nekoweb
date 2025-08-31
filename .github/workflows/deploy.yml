@@ -14,6 +14,7 @@ jobs:
         run: |
           sudo apt install hugo -y
           hugo
+          mv public/index.xml public/rss.xml
         
       - name: deploy2nekoweb
         uses: indiefellas/deploy2nekoweb@main

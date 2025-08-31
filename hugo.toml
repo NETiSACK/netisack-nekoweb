@@ -15,3 +15,7 @@ theme = 'mainroad'
   home = "right"
   list = "right"
   single = "right"
+  widgets = ["recent", "categories", "taglist", "social"]
+
+[Params.widgets.social]
+  github = "NETiSACK"

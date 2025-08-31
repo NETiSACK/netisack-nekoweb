@@ -7,3 +7,11 @@ theme = 'mainroad'
   image = false
   title = "NETiSACK"
   subtitle = "the little corner of the internet, we do silicon drugs here."
+
+[Params]
+  post_meta = ["author", "date", "categories"]
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
